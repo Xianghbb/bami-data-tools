@@ -13,7 +13,7 @@ Scrapes restaurant data in Greater Adelaide by suburb and cuisine using Google M
 - Google Maps API Key
 
 ## How to Use
-1. Prepare a `.env` file with your API key.
+1. Replace `API_KEY` in the script with your own key or prepare a `.env` file with your API key.
 2. Run:
    ```bash
    python restaurant_scraper.py

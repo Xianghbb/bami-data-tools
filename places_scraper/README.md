@@ -14,7 +14,7 @@ Python script to collect operational nearby businesses and their contact info (e
 - A valid **Google Maps API Key**
 
 ## How to Use
-1. Replace `API_KEY` in the script with your own key (or use a `.env` file, see below).
+1. Replace `API_KEY` in the script with your own key or prepare a `.env` file with your API key.
 2. Run the script:
    ```bash
    python collect_info.py
